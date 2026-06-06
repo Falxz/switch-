@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": true
   "message": "🚧 Bot sedang maintenance.\n\nTunggu Hingga Maintenance Selesai.",
   "bypass_ids": [
     123456789
